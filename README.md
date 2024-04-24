@@ -5,9 +5,9 @@ A Learning Management System (LMS) developed using Laravel and Vue.js combines t
 
 ## Features
 * Dashboard & Reports
-* Course Learning Management Syatem
-* Categories Management Syatem
-* User Authentication and Management: 
+* Course Learning Management System
+* Categories Management System
+* User Authentication and Managemen
 * Enrollment and Registration
 * Progress Tracking and Reporting 
 
