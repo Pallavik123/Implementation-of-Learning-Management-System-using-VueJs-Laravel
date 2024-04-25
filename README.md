@@ -19,15 +19,16 @@ A Learning Management System (LMS) developed using Laravel and Vue.js combines t
 
 ## Deployment Steps
 
-1. Run cp .env.example .env file to copy example file to.env
-Then edit .env file with DB credentials and other settings.
-2. Run composer install command
-3. Run php artisan migrate --seed command.
+```Run cp .env.example .env file to copy example file to.env```
 
-4. Run php artisan key:generate command.
-5. Run npm install
-6. Run npm run dev
-7. If you have file/photo fields, run php artisan storage:link command.
+
+Then edit .env file with DB credentials and other settings.
+```Run composer install command ```
+```Run php artisan migrate --seed command.```
+``` Run php artisan key:generate command.```
+```Run npm install```
+``` Run npm run dev```
+``If you have file/photo fields, run php artisan storage:link command```
    
 ## License
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
