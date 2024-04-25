@@ -22,10 +22,10 @@ A Learning Management System (LMS) developed using Laravel and Vue.js combines t
 * (``` cp .env.example .env file to.env```)
 * ( ```composer install  ```)
 * ( ```php artisan migrate --seed ```)
-* (``` Run php artisan key:generate command.```)
-* (```Run npm install```)
-* ( ``` Run npm run dev```)
-* ( ``` php artisan storage:link command```)
+* (```  php artisan key:generate ```)
+* (``` npm install```)
+* ( ```  npm run dev```)
+* ( ``` php artisan storage:link ```)
    
 ## License
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
