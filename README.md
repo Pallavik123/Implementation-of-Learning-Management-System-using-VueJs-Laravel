@@ -19,7 +19,7 @@ A Learning Management System (LMS) developed using Laravel and Vue.js combines t
 
 ## Deployment Steps
 
- * ``` convert .env.example .env file to.env```
+* ``` convert .env.example .env file to.env```
 * ```composer install  ```
 * ```php artisan migrate --seed ```
 * ```  php artisan key:generate ```
