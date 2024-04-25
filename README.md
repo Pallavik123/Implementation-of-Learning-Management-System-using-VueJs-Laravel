@@ -21,7 +21,7 @@ A Learning Management System (LMS) developed using Laravel and Vue.js combines t
 
 * (``` cp .env.example .env file to.env```)
 * ( ```composer install  ```)
-* ( ```Run php artisan migrate --seed command.```)
+* ( ```php artisan migrate --seed ```)
 * (``` Run php artisan key:generate command.```)
 * (```Run npm install```)
 * ( ``` Run npm run dev```)
